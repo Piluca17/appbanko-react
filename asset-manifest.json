@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appbanko-react/static/css/main.5d6df976.css",
+    "main.js": "/appbanko-react/static/js/main.07d5cc96.js",
+    "static/js/453.a261b52a.chunk.js": "/appbanko-react/static/js/453.a261b52a.chunk.js",
+    "index.html": "/appbanko-react/index.html",
+    "main.5d6df976.css.map": "/appbanko-react/static/css/main.5d6df976.css.map",
+    "main.07d5cc96.js.map": "/appbanko-react/static/js/main.07d5cc96.js.map",
+    "453.a261b52a.chunk.js.map": "/appbanko-react/static/js/453.a261b52a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6df976.css",
+    "static/js/main.07d5cc96.js"
+  ]
+}
